@@ -1,13 +1,25 @@
-# Digital Interfaces (p5.js) Course at Srishti (Aug-Sep 2016)
+# How to upload assignments
+1. Open https://github.com/grvashu/srishti-digital-interfaces
+2. Sign in with your Github Account (Create a new account if you don't have already)
+3. Open <>Code tab
+4. Go to your folder and click "Upload file"
+  1. Create an empty folder with your name on your machine.
+  2. Click on "Upload files"
+  3. Drag drop the folder from your machine to GitHub
+5. Open your folder on the GitHub and upload your assignment folder.
 
-Welcome to the Digital Interfaces - p5.js section of the course! You'll find all the course content and assignments here.
+# Example Directory Structure
+Your directory should look like below.
 
-# Course Outline
-1. **Week 1:** Getting Started with p5.js and Overview
-  1. Download and Setup
-  2. ~~Hello World~~ First Sketch
-  3. Coordinate System and Primitive Shapes
-2. **Week 2:** Control Flow and Animations
-3. **Week 3:** Interactions
-4. **Week 4:** HTML5 + p5.js and External Libraries
-5. **Week 5:** Project work
+```
+--Aniket
+  |--A1
+  |  |--index.html
+  |  |--style.css
+  |  |--animate.js
+  |
+  |--A2
+  |  |--index.html
+  |  |--style.css
+  |  |--animate.js
+```
