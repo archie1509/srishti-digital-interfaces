@@ -13,7 +13,7 @@ Please go to **wiki** (above) to find the course content.
 Your directory should look like below.
 
 ```
---Aniket
+--Zena (<-- Your name)
   |--A1
   |  |--index.html
   |  |--style.css
