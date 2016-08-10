@@ -1,3 +1,6 @@
+Welcome to Digital Interfaces course.
+Please go to **wiki** (above) to find the course content.
+
 # How to upload assignments
 
 1. Go to your folder and click "Upload file".
@@ -21,3 +24,8 @@ Your directory should look like below.
   |  |--style.css
   |  |--animate.js
 ```
+
+Note: 
+ - Do not change contents for folder other than your folder.
+ - Your assessment will be made based on the assignments that you upload here.
+ - Please ask your doubts in the **issues** section above.
