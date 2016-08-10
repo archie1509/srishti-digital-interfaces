@@ -17,12 +17,12 @@ Your directory should look like below.
   |--A1
   |  |--index.html
   |  |--style.css
-  |  |--animate.js
+  |  ⌊--animate.js
   |
   |--A2
   |  |--index.html
   |  |--style.css
-  |  |--animate.js
+  |  ⌊--animate.js
 ```
 
 Note: 
